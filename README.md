@@ -8,3 +8,9 @@ Public notes and lessons learned from competitive auditing, bug bounty work, and
 - judging mindset
 - duplicate risk
 - writing clear, technically grounded submissions
+
+## Start here
+
+If you only read one file in this repository, start with:
+
+- [how-to-write-findings-that-judge-well.md](./how-to-write-findings-that-judge-well.md)
