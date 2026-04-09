@@ -1,10 +1,10 @@
 # Contest Notes
 
-Public notes and lessons learned from audit contests, bug bounty work, and protocol review.
+Public notes and lessons learned from competitive auditing, bug bounty work, and protocol review.
 
 ## Focus
-- Interesting bug classes
-- Severity reasoning
-- Root cause patterns
-- Common judging pitfalls
-- What made findings reproducible and convincing
+- finding quality
+- severity reasoning
+- judging mindset
+- duplicate risk
+- writing clear, technically grounded submissions
